@@ -95,19 +95,6 @@ body {
 
 	</head>
 	<body>
-		<div id="my-loading" style="position:fixed; top:0; left:0; width:100%; height:100%; display:flex; align-items:center; justify-			content:center; background:#000000; z-index:9999;">
- 			<img id="my-loading-img" src="cat.png" style="width:128px; height:128px; image-rendering: pixelated;">
-		</div>
-		<script>
-  			var loadingFrames = ["cat.png", "cat_sit.png"];
-  			var loadingFrameIndex = 0;
-  			var loadingImgEl = document.getElementById("my-loading-img");
-  			var loadingTimer = setInterval(function () {
-   		 	  loadingFrameIndex = (loadingFrameIndex + 1) % loadingFrames.length;
-   		 	  loadingImgEl.src = loadingFrames[loadingFrameIndex];
-  			}, 100);
-		</script>
-
 		<canvas id="canvas">
 			Your browser does not support the canvas tag.
 		</canvas>
@@ -124,7 +111,7 @@ body {
 
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":5129052,"index.wasm":37902138},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":5130404,"index.wasm":37902138},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
@@ -223,8 +210,6 @@ const engine = new Engine(GODOT_CONFIG);
 				}
 			},
 		}).then(() => {
-			document.getElementById("my-loading").style.display = "none";
-			clearInterval(loadingTimer);
 			setStatusMode('hidden');
 		}, displayFailureNotice);
 	}
@@ -232,5 +217,4 @@ const engine = new Engine(GODOT_CONFIG);
 		</script>
 	</body>
 </html>
-
 
