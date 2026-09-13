@@ -1,0 +1,387 @@
+{
+	"dictionary": {
+		"revenue": {
+		  "definition": "money that is made by or paid to a business or an organization",
+		  "part_of_speech": "noun",
+		  "translation": "收入"
+		},
+		"proposal": {
+		  "definition": "something (such as a plan or suggestion) that is presented to a person or group of people to consider",
+		  "part_of_speech": "noun",
+		  "translation": "提案"
+		},
+		"delegate": {
+		  "definition": "to give a particular job, duty, right, etc. to someone else so that they do it for you",
+		  "part_of_speech": "noun",
+		  "translation": "委派；授權"
+		},
+		"briefing": {
+		  "definition": "to give information or instructions to (someone)",
+		  "part_of_speech": "verb",
+		  "translation": "簡報"
+		},
+		"pitch": {
+		  "definition": "a speech or act that attempts to persuade someone to buy or do something",
+		  "part_of_speech": "noun",
+		  "translation": "(商業)推銷用語；音調"
+		},
+		"conversely": {
+		  "definition": "in a way that is the opposite of something else",
+		  "part_of_speech": "adverb",
+		  "translation": "相反"
+		},
+		"fluctuate": {
+		  "definition": "to change level, strength, or value frequently",
+		  "part_of_speech": "verb",
+		  "translation": "波動"
+		},
+		"plummet": {
+		  "definition": "to fall suddenly straight down especially from a very high place",
+		  "part_of_speech": "verb",
+		  "translation": "直線下降"
+		},
+		"steady": {
+		  "definition": "not shaking or moving : held firmly in one place or position",
+		  "part_of_speech": "adjective",
+		  "translation": "穩定"
+		},
+		"leverage": {
+		  "definition": "to use something that you already have in order to achieve something new or better",
+		  "part_of_speech": "verb ",
+		  "translation": "運用優勢"
+		},
+
+		"demonstrate": {
+		  "definition": "to prove (something) by showing examples of it : to show evidence of (something)",
+		  "part_of_speech": "verb",
+		  "translation": "示範"
+		},
+		"submit": {
+		  "definition": "to give (a document, proposal, piece of writing, etc.) to someone so that it can be considered or approved",
+		  "part_of_speech": "verb",
+		  "translation": "提交, 送出"
+		},
+		"assign": {
+		  "definition": "to give someone a particular job or duty : to require someone to do a particular task",
+		  "part_of_speech": "verb",
+		  "translation": "分配, 指派"
+		},
+		"surpass": {
+		  "definition": "to be better or greater than (someone or something)",
+		  "part_of_speech": "verb",
+		  "translation": "超過, 勝於"
+		},
+		"stagnant": {
+		  "definition": "not growing or developing",
+		  "part_of_speech": "adjective",
+		  "translation": "停滯的"
+		},
+		"feasible": {
+		  "definition": "able to be made, done, or achieved",
+		  "part_of_speech": "adjective",
+		  "translation": "可行的"
+		},
+		"streamline": {
+		  "definition": "to improve the effectiveness of an organization such as a business or government",
+		  "part_of_speech": "verb ",
+		  "translation": "精簡, 簡化"
+		},
+		"consensus": {
+		  "definition": "a generally accepted opinion or decision among a group of people",
+		  "part_of_speech": "noun",
+		  "translation": "共識"
+		},
+		"decline": {
+		  "definition": "to become lower in amount or less in number",
+		  "part_of_speech": "verb",
+		  "translation": "（逐漸）減少, 衰落；拒絕"
+		},
+		"agenda": {
+			"definition": "a list of matters to be discussed at a meeting",
+			"part_of_speech": "noun",
+			"translation": "議程"
+		},
+		"collaborate": {
+			"definition": "to work together with someone for a particular purpose",
+			"part_of_speech": "verb",
+			"translation": "合作"
+		},
+		"deadline": {
+			"definition": "a time or day by which something must be done",
+			"part_of_speech": "noun",
+			"translation": "截止日期"
+		},
+		"implement": {
+			"definition": "to start using a plan or system",
+			"part_of_speech": "verb",
+			"translation": "執行, 實施"
+		},
+		"negotiate": {
+			"definition": "to have formal discussions with someone in order to reach an agreement",
+			"part_of_speech": "verb",
+			"translation": "談判, 協商"
+		},
+		"promote": {
+			"definition": "to encourage something to happen or develop; to raise someone to a higher position",
+			"part_of_speech": "verb",
+			"translation": "晉升, 促銷"
+		},
+		"quarter": {
+			"definition": "a period of three months, inside a financial year",
+			"part_of_speech": "noun",
+			"translation": "季度"
+		},
+		"strategy": {
+			"definition": "a detailed plan for achieving success in situations such as business or war",
+			"part_of_speech": "noun",
+			"translation": "策略"
+		},
+		"vendor": {
+			"definition": "a company or person that sells something",
+			"part_of_speech": "noun",
+			"translation": "廠商, 賣方"
+		},
+		"baggage": {
+			"definition": "bags, cases, and containers that hold a person's clothes and belongings when they are travelling",
+			"part_of_speech": "noun",
+			"translation": "行李"
+		},
+		"boarding": {
+			"definition": "the act of passengers getting on a ship, aircraft, or train",
+			"part_of_speech": "noun",
+			"translation": "登機；上船"
+		},
+		"currency": {
+			"definition": "the money that is used in a particular country at a particular time",
+			"part_of_speech": "noun",
+			"translation": "貨幣"
+		},
+		"destination": {
+			"definition": "the place where someone or something is going",
+			"part_of_speech": "noun",
+			"translation": "目的地"
+		},
+		"itinerary": {
+			"definition": "a detailed plan or route of a journey",
+			"part_of_speech": "noun",
+			"translation": "行程表"
+		},
+		"lodging": {
+			"definition": "a temporary place to stay",
+			"part_of_speech": "noun",
+			"translation": "住宿"
+		},
+		"souvenir": {
+			"definition": "something you buy or keep to help you remember a holiday or special event",
+			"part_of_speech": "noun",
+			"translation": "紀念品"
+		},
+		"terminal": {
+			"definition": "a large building at an airport where passengers arrive and leave",
+			"part_of_speech": "noun",
+			"translation": "航廈"
+		},
+		"transit": {
+			"definition": "the movement of goods or people from one place to another; stopping at an airport between flights",
+			"part_of_speech": "noun / verb",
+			"translation": "過境；轉機"
+		},
+		"voucher": {
+			"definition": "a piece of paper or an electronic document that can be used to pay for goods or services",
+			"part_of_speech": "noun",
+			"translation": "憑證, 優惠券"
+		},
+		"reservation": {
+			"definition": "an arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you",
+			"part_of_speech": "noun",
+			"translation": "預約, 預訂"
+		}
+	},	
+	"questions": {
+		"commercial":[
+		{
+		  "word": "revenue",
+		  "sentence": "The factory lost _____ because of the strike by the workers.",
+		  "options": ["decline","pitch","revenue","quarter"]
+		},
+		{
+		  "word": "streamline",
+		  "sentence": "We need to _____ the approval process to save time.",
+		  "options": ["surpass","streamline","pitch","decline"]
+		},
+		{
+		  "word": "consensus",
+		  "sentence": "Could we reach a _____ on this matter? Let's take a vote.",
+		  "options": ["briefing","consensus","pitch","proposal"]
+		},
+
+		{
+		  "word": "proposal",
+		  "sentence": "Everyone thought the _____ made sense.",
+		  "options": ["vendor","conversely","briefing","proposal"]
+		},
+		{
+		  "word": "stagnant",
+		  "sentence": "Our domestic sales have remained _____ for three consecutive quarters.",
+		  "options": ["feasible","revenue","steady","stagnant"]
+		},
+		{
+		  "word": "feasible",
+		  "sentence": "With the extra resources, the project now seems _____.",
+		  "options": ["feasible","leverage","briefing","stagnant"]
+		},
+		{
+		  "word": "leverage",
+		  "sentence": "We should _____ our strong brand reputation to enter the new market.",
+		  "options": ["delegate","surpass","leverage","briefing"]
+		},
+		{
+		  "word": "briefing",
+		  "sentence": "The team members gather at 9:00 AM every morning for a daily _____.",
+		  "options": ["plummet","pitch","briefing","negotiate"]
+		},
+		{
+		  "word": "negotiate",
+		  "sentence": "The government has refused to _____ with the strikers.",
+		  "options": ["plummet","pitch","surpass","negotiate"]
+		},
+		{
+		  "word": "negotiate",
+		  "sentence": "I've managed to _____ a five percent pay increase with my boss.",
+		  "options": ["collaborate","leverage","surpass","negotiate"]
+		},
+		{
+		  "word": "delegate",
+		  "sentence": "As a boss you have to _____ responsibilities to your staff.",
+		  "options": ["implement","surpass","delegate","conversely"]
+		},
+		{
+		  "word": "pitch",
+		  "sentence": "The city made a _____ to stage the Olympics",
+		  "options": ["leverage","surpass","collaborate","pitch"]
+		},
+		{
+		  "word": "conversely",
+		  "sentence": "Large objects appear to be closer. _____, small objects seem farther away.",
+		  "options": ["conversely","revenue","demonstrate","plummet"]
+		},
+		{
+		  "word": "quarter",
+		  "sentence": "There was a fall in unemployment in the second _____ of the year.",
+		  "options": ["quarter","revenue","demonstrate","fluctuate"]
+		},
+		{
+		  "word": "fluctuate",
+		  "sentence": "Oil prices _____ throughout the year, driven by unpredictable geopolitical tensions.",
+		  "options": ["fluctuate","plummet","submit","delegate"]
+		},
+		{
+		  "word": "plummet",
+		  "sentence": "House prices have _____ed in recent months.",
+		  "options": ["proposal","pitch","delegate","plummet"]
+		},
+		{
+		  "word": "steady",
+		  "sentence": "Orders for new ships are rising, after several years of _____ decline.",
+		  "options": ["demonstrate","surpass","steady","fluctuate"]
+		},
+		{
+		  "word": "demonstrate",
+		  "sentence": "Each student must _____ mastery of the subject matter in order to pass the class.",
+		  "options": ["proposal","demonstrate","fluctuate","steady"]
+		},
+		{
+		  "word": "submit",
+		  "sentence": "Candidates interested in the position should _____ their résumés to the Office of Human Resources.",
+		  "options": ["revenue","conversely","submit","assign"]
+		},
+		{
+		  "word": "assign",
+		  "sentence": "They _____ed me the job of cleaning the equipment.",
+		  "options": ["delegate","surpass","consensus","assign"]
+		},
+		{
+		  "word": "implement",
+		  "sentence": "Their reports were only partly _____ed, or, worse still, just pigeonholed.",
+		  "options": ["delegate","implement","assign","demonstrate"]
+		},
+		{
+		  "word": "surpass",
+		  "sentence": "The net profit is expected to _____ the $10 million mark this year.",
+		  "options": ["plummet","implement","surpass","demonstrate"]
+		},
+		{
+		  "word": "vendor",
+		  "sentence": "The _____ of the store wants to exchange contracts this week.",
+		  "options": ["decline","implement","vendor","pitch"]
+		},
+		{
+		  "word": "decline",
+		  "sentence": "Profits have _____ed as a result of the recent drop in sales.",
+		  "options": ["assign","decline","pitch","submit"]
+		}
+	],
+		"travel":[
+		{
+		  "word": "itinerary",
+		  "sentence": "The tour operator will arrange transport and plan your _____.",
+		  "options": ["itinerary","souvenir","terminal","currency"]
+		},
+		{
+		  "word": "souvenir",
+		  "sentence": "We brought back a few _____s from our holiday in Mexico.",
+		  "options": ["itinerary","souvenir","terminal","currency"]
+		},
+		{
+		  "word": "souvenir",
+		  "sentence": "He bought a model of a red London bus as a _____ of his trip to London.",
+		  "options": ["itinerary","souvenir","lodging","baggage"]
+		},
+		{
+		  "word": "currency",
+		  "sentence": "Take some foreign _____ to cover incidentals like the taxi fare to your hotel.",
+		  "options": ["itinerary","souvenir","lodging","currency"]
+		},
+		{
+		  "word": "lodging",
+		  "sentence": "The price includes board and _____.",
+		  "options": ["voucher","souvenir","lodging","baggage"]
+		},
+		{
+		  "word": "voucher",
+		  "sentence": "The _____ is valid between July and December and entitles you to ten percent off all overseas flights.",
+		  "options": ["voucher","reservation","lodging","currency"]
+		},
+		{
+		  "word": "destination",
+		  "sentence": "We arrived at our _____ tired and hungry.",
+		  "options": ["voucher","destination","lodging","currency"]
+		},
+		{
+		  "word": "destination",
+		  "sentence": "The Caribbean is a popular holiday _____.",
+		  "options": ["voucher","destination","lodging","reservation"]
+		},
+		{
+		  "word": "baggage",
+		  "sentence": "We had to pay extra for our excess _____.",
+		  "options": ["voucher","transit","lodging","baggage"]
+		},
+		{
+		  "word": "baggage",
+		  "sentence": "No one is allowed on the plane unless their _____ has been thoroughly checked.",
+		  "options": ["voucher","destination","lodging","baggage"]
+		},
+		{
+		  "word": "reservation",
+		  "sentence": "I'd like to make a table reservation for two people for nine o'clock.",
+		  "options": ["voucher","destination","itinerary","reservation"]
+		}
+		
+
+	
+	
+	]
+	}
+	
+}
